@@ -5,6 +5,10 @@ This is give for two intended to play with some and later on use ML for it to pl
 
 ## Tools
 
-    - java 1.8
-    - javfx 8
+    - java 1.8 
+    - awt
     - eclise 2018 
+
+#STATUS 
+Continue in fx here
+https://github.com/SoftCareTech/align_game

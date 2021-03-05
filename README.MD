@@ -1,6 +1,7 @@
-# Chrome Extension
+# Board Game
+Read the images please
+This is give for two intended to play with some and later on use ML for it to play with computer.
 
-This is an application detect fraud on data base on Benford law and plot a graph
 
 ## Tools
 
